@@ -1,0 +1,6 @@
+{
+  "name": "Game Qur'an Hadits Seru — Ekspedisi Penjaga Hikmah",
+  "description": "Game petualangan edukatif Al-Qur'an Hadits Kelas 5 MI Semester 1 karya Aditya Rozak Putera Ramadan, S.Ag (MIN 3 Nganjuk). Belajar Surah Al-'Adiyat, Surah At-Tin, Hukum Mim Sukun, dan Hadis Menyayangi Anak Yatim lewat misi interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
